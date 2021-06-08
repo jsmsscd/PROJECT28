@@ -28,8 +28,8 @@ class Launcher
      this.launcher.bodyA=null; 
    }
 
-     play(body)
+     play()
    {
-      this.launcher.bodyA= body
+      this.launcher.bodyA= bodyA
    }
 }
